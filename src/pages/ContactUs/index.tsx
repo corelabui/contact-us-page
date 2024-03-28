@@ -68,7 +68,7 @@ function ContactUs() {
         />
         <br />
         <br />
-        <Button width="100%">Sign up</Button>
+        <Button width="100%">Send</Button>
       </Form>
     </div>
   );
